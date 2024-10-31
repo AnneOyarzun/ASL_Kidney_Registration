@@ -1,1 +1,1 @@
-# ASL_Kidney_Registration
+# 2D_Kidney_Registration_DL
